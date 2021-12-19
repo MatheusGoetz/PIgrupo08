@@ -71,3 +71,21 @@ header{
 body{
     margin: 0;
 }
+#navMenu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #4b3621;
+}
+.botaoMenu{
+    border: none;
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px;
+    color: #FFBF00;
+    background-color: #4b3621;
+}
